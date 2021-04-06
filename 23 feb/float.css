@@ -1,0 +1,23 @@
+.satu{
+	background-color: pink;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+.dua{
+	background-color: black;
+	width: 50%;
+	height: 100px;
+	float: right;
+	color: pink;
+}
+.tiga{
+	background-color: green;
+	width: 100px;
+	height: 150px;
+	/*float: left;*/
+	/*clear: both;*/
+}
+.clear{
+	clear: both;
+}

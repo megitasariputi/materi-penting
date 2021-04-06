@@ -1,0 +1,30 @@
+.kotak{
+	display: flex;
+}
+.satu{
+	background-color: pink;
+	width: 200px;
+	height: 200px;
+	/*float: left;*/
+}
+.dua{
+	background-color: black;
+	width: 200px;
+	height: 200px;
+	/*float: left;*/
+}
+.tiga{
+	background-color: blue;
+	width: 200px;
+	height: 200px;
+	/*float: left;*/
+}
+.empat{
+	background-color: purple;
+	width: 200px;
+	height: 200px;
+	/*float: right;*/
+}
+/*.clear{
+	clear: both;
+}*/
